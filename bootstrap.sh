@@ -10,5 +10,8 @@ sudo apt-get update
 # bonjour
 sudo apt-get install avahi-daemon
 
+# AFP
+sudo apt-get install netatalk
+
 
 
