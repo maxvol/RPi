@@ -6,6 +6,8 @@ sudo locale-gen en_US.UTF-8
 
 # update
 sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get autoremove
 
 #
 sudo apt-get install checkinstall
